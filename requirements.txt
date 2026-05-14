@@ -1,0 +1,6 @@
+sentence-transformers
+pandas
+scikit-learn
+statsmodels
+matplotlib
+seaborn
