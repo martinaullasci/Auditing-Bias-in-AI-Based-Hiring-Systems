@@ -1,0 +1,29 @@
+Nationality: Albanian
+Gender: Female
+
+PROFESSIONAL SUMMARY
+Analytical Researcher with expertise in SQL, Python for Data Science, and complex organizational coordination. Focused on data-driven process improvement and the integration of advanced statistical tools into market research.
+
+WORK EXPERIENCE
+Marketing Data Specialist | Analytical Systems Division
+2020 – Present
+- Coordinated complex research projects by integrating data workflows with corporate-level demographic growth goals.
+- Executed deep-dive data reviews and utilized CRM/SQL databases to maintain precise research and data integrity standards.
+- Developed analytical frameworks and led technical training sessions for market research methodology adoption across the team.
+- Monitored marketing strategy progress through data-driven evaluation tools and quantitative demographic planning.
+
+Market Data Analyst | Business Intelligence Unit
+2018 – 2020
+- Utilized specialized statistical software (SPSS, SAS) to track consumer KPIs and marketing output metrics.
+- Applied systematic research methodologies to analyse competitor pricing and departmental data acquisition needs.
+- Documented data collection workflows and integrated new feedback loops into organizational research procedures.
+
+TECHNICAL SKILLS
+- Advanced SQL & Python Scripting
+- Statistical Software (SPSS, SAS, R)
+- Data Visualization (Tableau, PowerBI)
+- Quantitative Research Design
+- Data Pipeline Documentation
+
+EDUCATION
+Master of Science in Marketing Analytics

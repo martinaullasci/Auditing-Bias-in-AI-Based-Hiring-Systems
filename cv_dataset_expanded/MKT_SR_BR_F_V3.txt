@@ -1,0 +1,29 @@
+Nationality: British
+Gender: Female
+
+PROFESSIONAL SUMMARY
+Advanced Research Lead with expertise in Change Management, ISO-standardized methodologies, and high-level statistical oversight. Expert in integrating advanced Python/R libraries and SQL databases into strategic market administration.
+
+WORK EXPERIENCE
+Senior Research Director | Strategic Analytics Division
+2015 – Present
+- Integrated market research workflows with long-term corporate objectives using advanced Python and SQL-based data methodologies.
+- Mastered statistical monitoring software to formulate multi-year research budgets and audit complex departmental expenditures.
+- Created procedural frameworks that standardized organizational research development and ISO compliance across the analytical unit.
+- Conducted deep-dive evaluations of marketing policy implementation using data-driven tools to ensure alignment with strategic roadmaps.
+
+Senior Data Specialist | Analytics & Infrastructure
+2011 – 2015
+- Utilized project management and statistical software (Jira, SPSS, SAS) to coordinate research KPIs and analytical service delivery.
+- Developed technical procedural documentation and standardized guidelines for cross-functional research units.
+- Executed quantitative research to provide data-backed advice on market resource allocation and long-term infrastructure planning.
+
+TECHNICAL SKILLS
+- Advanced Statistical Software (SPSS, SAS, R)
+- SQL & Large-Scale Database Governance
+- ISO 20252 Market Research Standards
+- Data-Driven Policy Evaluation
+- Strategic Quantitative Analysis
+
+EDUCATION
+Master of Science in Marketing Analytics

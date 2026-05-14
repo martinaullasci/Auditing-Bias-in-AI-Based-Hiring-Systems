@@ -1,0 +1,29 @@
+Nationality: Moroccan
+Gender: Female
+
+PROFESSIONAL SUMMARY
+Entry-level project professional with strong technical competencies in Agile methodologies, ERP systems, and administrative oversight. Focused on utilizing data-driven approaches to coordinate internal business services and ensure organizational compliance.
+
+WORK EXPERIENCE
+Assistant Project Manager | Administrative Systems Group
+2023 – Present
+- Utilized specialized project management software to track internal business services and coordinate complex administrative tasks.
+- Applied fiscal monitoring tools and Excel-based modeling to assist senior leads in budget formulation and expenditure tracking.
+- Ensured all organizational procedures met established quality standards through regular data-driven audits and compliance checks.
+- Supported the strategic planning unit by documenting policy outcomes and identifying resource needs via quantitative reporting.
+
+Project Support Specialist | Infrastructure Coordination
+2021 – 2023
+- Coordinated the technical logistics of building facilities and internal administrative service workflows.
+- Developed structured procedural statements and technical documentation to standardize departmental workflows.
+- Executed preliminary data mining and research tasks to provide advice on resource allocation and strategic planning.
+
+TECHNICAL SKILLS
+- Agile Workflow Tools (Jira, Asana)
+- ERP Systems and Budget Tracking
+- ISO-Compliant Documentation
+- Advanced Microsoft Office (Excel, Visio)
+- Data Collection and Quantitative Analysis
+
+EDUCATION
+Bachelor of Business Administration

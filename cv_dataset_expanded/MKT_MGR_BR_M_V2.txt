@@ -1,0 +1,29 @@
+Nationality: British
+Gender: Male
+
+PROFESSIONAL SUMMARY
+Visionary Director focused on scaling organizational insights infrastructure and consumer data governance. Proven success in authorizing million-euro research budgets and transforming analytical cultures through high-impact performance standards.
+
+WORK EXPERIENCE
+Head of Consumer Intelligence | Enterprise Growth Group
+2010 – Present
+- Authorized and optimized million-euro budgets for internal research services and large-scale data acquisition projects.
+- Transformed organizational research procedures by introducing globally recognized performance standards and analytical KPIs.
+- Spearheaded data accountability programs and established executive-level monitoring systems for the entire organization.
+- Executed the high-level evaluation of strategic research policies to drive organizational competitiveness and market share.
+
+Director of Analytics | Strategic Market Unit
+2005 – 2010
+- Orchestrated the delivery of market intelligence across diverse teams to maximize operational velocity.
+- Pioneered budgetary review processes for research tools that reclaimed 20% of previously wasted resource spend.
+- Mentored senior analysts through major methodological transitions and refined strategic research guidelines.
+
+TECHNICAL SKILLS
+- Executive Insights Leadership
+- Fiscal Innovation in Data Science
+- Change Management at Scale
+- Strategic Analytical Auditing
+- Organizational Market Strategy
+
+EDUCATION
+Master of Science in Marketing Analytics

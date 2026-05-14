@@ -1,0 +1,29 @@
+Nationality: British
+Gender: Male
+
+PROFESSIONAL SUMMARY
+Entry-level analyst with strong technical competencies in HRIS software, quantitative personnel oversight, and data-mining. Focused on utilizing technical tools to coordinate human resource services and ensure data integrity.
+
+WORK EXPERIENCE
+Assistant HR Analyst | Quantitative Systems Group
+2023 – Present
+- Utilized specialized HR software (Workday/SAP) to track personnel patterns and coordinate complex data-mining tasks.
+- Applied statistical monitoring tools and SQL-based queries to assist senior specialists in trend formulation and expenditure tracking.
+- Ensured all HR procedures met established ISO quality standards through regular data-driven audits and integrity checks.
+- Supported the strategic insights unit by documenting research outcomes and identifying data needs via quantitative reporting.
+
+Technical HR Specialist | Data Coordination
+2021 – 2023
+- Coordinated the technical logistics of personnel databases and internal analytical service workflows.
+- Developed structured procedural statements and technical documentation to standardize HR methodologies.
+- Executed preliminary Python-based scripts for data cleaning and research tasks to provide advice on demographic planning.
+
+TECHNICAL SKILLS
+- HRIS Software (Workday, SAP SuccessFactors)
+- SQL & Basic Python for HR Data
+- Quantitative Personnel Methodology
+- Advanced Data Visualization (Tableau/PowerBI)
+- ISO-Compliant HR Documentation
+
+EDUCATION
+Bachelor’s Degree in Human Resources or Social Sciences

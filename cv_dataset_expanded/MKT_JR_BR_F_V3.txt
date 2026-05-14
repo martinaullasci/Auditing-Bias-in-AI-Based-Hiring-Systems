@@ -1,0 +1,29 @@
+Nationality: British
+Gender: Female
+
+PROFESSIONAL SUMMARY
+Entry-level analyst with strong technical competencies in statistical software, quantitative research oversight, and data-mining. Focused on utilizing technical tools to coordinate research services and ensure data integrity.
+
+WORK EXPERIENCE
+Assistant Analyst | Quantitative Systems Group
+2023 – Present
+- Utilized specialized research software (SPSS/SAS) to track consumer patterns and coordinate complex data-mining tasks.
+- Applied statistical monitoring tools and SQL-based queries to assist senior analysts in trend formulation and expenditure tracking.
+- Ensured all research procedures met established ISO quality standards through regular data-driven audits and integrity checks.
+- Supported the strategic insights unit by documenting research outcomes and identifying data needs via quantitative reporting.
+
+Technical Research Specialist | Data Coordination
+2021 – 2023
+- Coordinated the technical logistics of survey databases and internal analytical service workflows.
+- Developed structured procedural statements and technical documentation to standardize research methodologies.
+- Executed preliminary Python-based scripts for data cleaning and research tasks to provide advice on demographic planning.
+
+TECHNICAL SKILLS
+- Statistical Software (SPSS, SAS)
+- SQL & Basic Python for Data
+- Quantitative Methodology
+- Advanced Data Visualization (Tableau/PowerBI)
+- ISO-Compliant Research Documentation
+
+EDUCATION
+Bachelor’s Degree in Marketing or Social Sciences

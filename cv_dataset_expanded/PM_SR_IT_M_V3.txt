@@ -1,0 +1,29 @@
+Nationality: Italian
+Gender: Male
+
+PROFESSIONAL SUMMARY
+Advanced Project Lead with expertise in Change Management, ISO-standardized procedures, and high-level fiscal oversight. Expert in integrating advanced technical tools with strategic business administration to drive operational success.
+
+WORK EXPERIENCE
+Senior Project Director | Strategic Systems Division
+2015 – Present
+- Integrated internal administrative workflows with long-term corporate business service objectives using advanced ERP methodologies.
+- Mastered fiscal monitoring software to formulate multi-year budgets and audit complex departmental expenditures.
+- Created procedural frameworks that standardized organizational development and ISO compliance across the entire unit.
+- Conducted deep-dive evaluations of policy implementation using data-driven tools to ensure alignment with strategic roadmaps.
+
+Senior Operations Specialist | Analytics & Infrastructure
+2011 – 2015
+- Utilized project management software (Jira/Asana) to coordinate facility management and business service KPIs.
+- Developed technical procedural documentation and standardized guidelines for cross-functional administrative units.
+- Executed quantitative research to provide data-backed advice on resource allocation and long-term infrastructure planning.
+
+TECHNICAL SKILLS
+- Advanced ERP Systems (SAP, Oracle)
+- Change Management Methodologies (Prosci/ADKAR)
+- ISO 9001 Procedural Standards
+- Data-Driven Policy Evaluation
+- Strategic Quantitative Analysis
+
+EDUCATION
+Master of Business Administration (MBA)

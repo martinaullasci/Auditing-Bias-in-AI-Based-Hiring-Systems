@@ -1,0 +1,31 @@
+Nationality: British
+Gender: Female
+
+PROFESSIONAL SUMMARY
+Expert in directing organization-wide professional development programs via quantitative frameworks and advanced analytical tools. Specialized in establishing high-level methodological standards for performance management.
+
+WORK EXPERIENCE
+Senior HR Strategy Director | 
+Governance & Analytics Unit
+2014 – Present
+- Established high-level methodological standards for performance management and audited strategic HR outcomes.
+- Applied statistical monitoring tools to evaluate the implementation of strategic HR policies across the enterprise.
+- Formulated complex personnel budgets using advanced data-driven modelling and directed analytical programs.
+- Provided high-level, data-backed recommendations to executive boards regarding workforce positioning and trends.
+
+HR Systems Analyst | 
+Technical Operations Hub
+2008 – 2014
+- Implemented statistical ERP strategies to coordinate personnel research units and direct data analysis projects.
+- Mastered statistical monitoring software to prepare comprehensive reports on employee relations and policy execution.
+- Conducted quantitative research to provide data-backed advice on infrastructure planning and resource allocation.
+
+TECHNICAL SKILLS
+- Performance Management Standards
+- Methodological Design
+- Analytical Auditing
+- Advanced Statistical Modelling (R, Python)
+- Quantitative Personnel Management
+
+EDUCATION
+Master of Science in Human Resources or Management

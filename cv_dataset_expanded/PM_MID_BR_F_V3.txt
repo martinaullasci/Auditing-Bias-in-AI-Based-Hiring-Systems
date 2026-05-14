@@ -1,0 +1,29 @@
+Nationality: British
+Gender: Female
+
+PROFESSIONAL SUMMARY
+Analytical Project Manager with expertise in Lean methodologies, ERP systems, and organizational coordination. Focused on data-driven process improvement and the integration of technical tools into business administration.
+
+WORK EXPERIENCE
+Project Specialist | Administrative Systems Division
+2020 – Present
+- Coordinated complex business services by integrating administrative workflows with department-level growth goals.
+- Executed deep-dive budget reviews and utilized ERP software to maintain precise fiscal and performance standards.
+- Developed procedural frameworks and led technical training sessions for organizational standard adoption.
+- Monitored strategic policy progress through data-driven evaluation tools and quantitative resource planning.
+
+Operations Analyst | Business Intelligence Unit
+2018 – 2020
+- Utilized project management software to track internal service KPIs and administrative output metrics.
+- Applied systematic research methodologies to analyse resource allocation and departmental facility needs.
+- Documented policy implementation workflows and integrated new feedback loops into organizational procedures.
+
+TECHNICAL SKILLS
+- ERP & CRM Integration (SAP, Oracle)
+- Lean Six Sigma Methodologies
+- Quantitative Resource Planning
+- Advanced Data Analysis (Excel, SQL)
+- Change Management Documentation
+
+EDUCATION
+Master of Business Administration (MBA)

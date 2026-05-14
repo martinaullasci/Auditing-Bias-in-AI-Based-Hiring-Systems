@@ -1,0 +1,31 @@
+Nationality: Moroccan
+Gender: Female
+
+PROFESSIONAL SUMMARY
+Technical HR practitioner focused on utilizing advanced analytical ERP strategies and quantitative frameworks to govern personnel units. Expert in monitoring research standards and preparing data-driven reports via systematic resource planning.
+
+WORK EXPERIENCE
+HR Systems Analyst | 
+Governance & Analytics Unit
+2019 – 2023
+- Implemented statistical ERP strategies to coordinate personnel research units and direct data analysis projects.
+- Audited departmental HR budgets and established ISO-compliant procedures for project resource control.
+- Utilized Python/R modelling to formulate programs for analytical implementation and performance benchmarking.
+- Mastered statistical monitoring software to prepare comprehensive reports on employee relations and policy execution.
+
+Technical HR Associate | 
+Data Coordination Hub
+2015 – 2019
+- Integrated personnel workflows with corporate objectives using SQL governance and systematic resource planning.
+- Conducted quantitative research to provide data-backed advice on infrastructure planning and resource allocation.
+- Executed preliminary scripts for data cleaning to ensure integrity across all internal recruitment databases.
+
+TECHNICAL SKILLS
+- Advanced Statistical Governance (R, Python, SQL)
+- Quantitative Personnel Methodology
+- ISO-Compliant Documentation
+- ERP Strategy & Resource Planning
+- Data-Driven Fiscal Management
+
+EDUCATION
+Master of Science in Human Resources or Management
