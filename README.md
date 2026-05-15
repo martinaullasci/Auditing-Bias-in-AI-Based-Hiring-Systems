@@ -4,14 +4,12 @@
 This repository contains the replication package for the paper:
 
 > *Auditing Bias in AI-Based Hiring Systems: A Fairness Analysis of Nationality and Gender Discrimination*  
-> Xhoana Shkajoti, Martina Ullasci, Marco Rondina, Riccardo Coppola, Antonio Vetrò  
-> Politecnico di Torino, Italy
 
 ---
 
 ## Overview
 
-This study audits an embedding-based CV–job matching pipeline built on [Sentence-BERT (SBERT)](https://www.sbert.net/) to evaluate systematic disparities related to **gender** and **nationality**. Using a synthetic dataset of controlled candidate profiles, the analysis is conducted across three stages of the recruitment pipeline: similarity score computation, threshold-based screening, and Top-K ranking.
+This study audits an embedding-based CV–job matching pipeline built on [Sentence-BERT (SBERT)](https://www.sbert.net/) to evaluate systematic disparities related to **gender** and **nationality**. Using a synthetic dataset of controlled candidate profiles, the analysis is conducted across three stages of the recruitment pipeline: similarity score computation, threshold-based screening and Top-K ranking.
 
 ---
 
